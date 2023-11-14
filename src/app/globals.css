@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url("https://fonts.googleapis.com/css2?family=Bellefair&family=Outfit:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100&family=Courgette&family=Kanit:wght@300&family=Lato&family=Lobster+Two:ital,wght@1,700&family=Mukta&family=Roboto&family=Rubik+Bubbles&family=Tilt+Prism&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100&family=Barlow:wght@100&family=Courgette&family=Kanit:wght@300&family=Lato&family=Lobster+Two:ital,wght@1,700&family=Mukta&family=Roboto&family=Rubik+Bubbles&family=Tilt+Prism&display=swap");
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
